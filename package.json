@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-10",
+  "name": "vanilla-app-template",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -14,11 +14,11 @@
     "postcss-sort-media-queries": "^5.2.0",
     "vite": "^5.4.6"
   },
-  "author": "Roman Omelchuk <omelchuk.8787@gmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "simplelightbox": "^2.14.3",
-    "validator": "^13.15.15",
+    "flatpickr": "^4.6.13",
+    "izitoast": "^1.4.0",
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
   }
